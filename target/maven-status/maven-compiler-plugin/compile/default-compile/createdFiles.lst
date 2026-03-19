@@ -1,0 +1,5 @@
+com\example\entity\User.class
+com\example\repository\UserRepository.class
+com\example\repository\StudyLogRepository.class
+com\example\StudyTrackerApplication.class
+com\example\entity\StudyLog.class
